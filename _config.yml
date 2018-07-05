@@ -12,7 +12,7 @@ description: Use your imaginationnnn
 
 **Test for Picture hover and color changes*
 body{
-	fot family: sans serif;
+	font-family: sans serif;
 }
 h1{
 	text-align: center;
@@ -25,7 +25,7 @@ h1{
 .gallery img{
 	width: 230px;
 	padding:5px;
-	filter: grayscale(100%)
+	filter: grayscale(100%);
 	transition: 1s:
 }
 .gallery img:hover{
